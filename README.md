@@ -24,5 +24,5 @@
 * Founder & President, SpaceTech Corp, Indianapolis IN (1/2006 - present)
 
 ## Websites
-https://www.spacetechcorp.com/
-https://chuckrfields.github.io/
+- https://www.spacetechcorp.com/
+- https://chuckrfields.github.io/
