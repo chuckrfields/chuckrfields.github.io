@@ -1,7 +1,7 @@
 # Chuck R Fields
 
 # Resume
-[download](chuckrfields_resume.pdf)
+[download](ChuckRFields_resume.pdf)
 
 ## About Chuck
 - Chuck is a veteran of the information technology industry, with 20+ years experience developing & managing robust web applications as a dev team leader, full-stack developer, relational database architect, report developer and consultant. Before that Chuck was a marketing director helping businesses both nationally and internationally, so he understands how to apply technology to improve business.
