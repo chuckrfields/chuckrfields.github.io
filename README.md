@@ -26,3 +26,5 @@
 ## Websites
 - https://www.spacetechcorp.com/
 - https://chuckrfields.github.io/
+- https://www.yourspacejourney.com
+- https://www.onlinecoffeebreak.com
