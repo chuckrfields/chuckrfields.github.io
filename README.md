@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Chuck R Fields
 
-You can use the [editor on GitHub](https://github.com/chuckrfields/chuckrfields.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Chuck
+- Chuck is a veteran of the information technology industry, with 20+ years experience developing & managing robust web applications as a dev team leader, full-stack developer, relational database architect, report developer and consultant. Before that Chuck was a marketing director helping businesses both nationally and internationally, so he understands how to apply technology to improve business.
+- His skill set includes back-end development (LAMP, WAMP, MERN and WISA stacks), as well as front-end development with frameworks/libraries including Bootstrap, jQuery, React, JavaScript and many others. He founded one of the first CRM web sites for the financial industry in the late 1990s (recognized by American Banker), and has been in the industry ever since.  
+- He holds a Bachelor’s Degree in Communications, which helps him translate technical terms with enthusiasm while ensuring understanding. He’s also an award-winning podcast host & producer, with an audience in all 50 U.S. states and 161 countries. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Skillset
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Node.js
+* ASP.net
+* C#
+* VB.net
+* SQL Server
+* MySQL
+* API
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Professional Experience
+* Adjunct Instrutor at Butler University Coding Bootcamp, Indianapolis IN (11/2020 - present)
+* Founder & President, SpaceTech Corp, Indianapolis IN (1/2006 - present)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chuckrfields/chuckrfields.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Website
+https://www.spacetechcorp.com/
